@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="192dp" android:height="192dp" android:viewportWidth="192" android:viewportHeight="192" android:tint="@color/primaryForeground">  
+  <path android:pathData="m83.57,100.57v28.39h22.54m22.29,-14.19H117.25m27.35,-14.19 l28.37,28.39m0,-28.39 l-28.37,28.39m-8.1,-28.39h-13.17c-6.11,0 -13.68,5.5 -13.68,14.19 0,8.69 7.76,14.19 13.68,14.19H136.5M72.68,114.76H54.44M75.72,100.57H54.44v28.39" android:strokeLineJoin="round" android:strokeWidth="6" android:fillColor="#00000000" android:strokeColor="@color/primaryForeground" android:strokeLineCap="round"/>  
+  <path android:pathData="M70.65,62.56H55.46" android:strokeLineJoin="round" android:strokeWidth="6" android:fillColor="#00000000" android:strokeColor="@color/primaryForeground" android:strokeLineCap="round"/>  
+  <path android:pathData="M69.64,74.66 L55.46,74.75" android:strokeLineJoin="round" android:strokeWidth="6" android:fillColor="#00000000" android:strokeColor="@color/primaryForeground" android:strokeLineCap="round"/>  
+  <path android:pathData="M70.65,87.39H55.46" android:strokeLineJoin="round" android:strokeWidth="6" android:fillColor="#00000000" android:strokeColor="@color/primaryForeground" android:strokeLineCap="round"/>  
+  <path android:pathData="M77.74,62.56H102.06" android:strokeLineJoin="round" android:strokeWidth="6" android:fillColor="#00000000" android:strokeColor="@color/primaryForeground" android:strokeLineCap="round"/>  
+  <path android:pathData="m161.83,74.97a13.17,12.17 0,0 1,-13.17 12.17,13.17 12.17,0 0,1 -13.17,-12.17 13.17,12.17 0,0 1,13.17 -12.17,13.17 12.17,0 0,1 13.17,12.17zM110.67,63.57 L119.28,63.53c9.27,0.01 8.98,11.7 0,11.7h-8.61,6.58c6.3,0 7.75,6.78 10.13,11.15m-16.72,-0L110.67,63.57M89.9,63.38L89.9,86.38M55.46,63.57v22.81m-35.46,0L20,63.57L32.41,77.76 44.82,63.57v22.81" android:strokeLineJoin="round" android:strokeWidth="7.99999952" android:fillColor="#00000000" android:strokeColor="@color/primaryForeground" android:strokeLineCap="round"/> 
+</vector>
